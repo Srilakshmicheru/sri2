@@ -1,4 +1,4 @@
 hello world
 sample work to link to repository
 webhook test
-Automatic
+Automatic build
